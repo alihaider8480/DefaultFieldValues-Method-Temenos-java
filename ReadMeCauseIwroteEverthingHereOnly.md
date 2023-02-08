@@ -28,6 +28,6 @@ But here we put routine on check rec rtn so it will fire when we open that versi
 NOW WE ARE IN SECTOR FIELD DIDN’T CLICK OUTSIDE THE SECTOR
 
 ![image](https://user-images.githubusercontent.com/40827670/217556975-60f03cc0-90a6-4f60-b33f-faaca7c9cd16.png)
-NOW WE CLICK OUTSIDE THE SECTOR FIELD
+NOW WE CLICK OUTSIDE THE SECTOR FIELD and check name value is change to 2007/BNK if we select another value of sector then name.1 field overide /CNK value
 
 
