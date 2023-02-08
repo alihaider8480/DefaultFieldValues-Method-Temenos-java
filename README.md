@@ -15,4 +15,19 @@ and class name we wrote same as java class name and same as package do it
 Here we put that routine in check rec  routine rtn while this routine I can put in default routine place if I put this routine on default rtn place so when we select any value in sector then it will be fire
 
 ![image](https://user-images.githubusercontent.com/40827670/217556168-b440f350-cde0-4b63-9c2c-8607493495b2.png)
+And make sure we should set attribute on that field as hot.validate where field we select
+
+![image](https://user-images.githubusercontent.com/40827670/217556649-a70121ec-c0d8-4170-9706-ba4a7e54520c.png)
+But here we put routine on check rec rtn so it will fire when we open that version
+
+
+------Now we put that routine on default field BUT SEE FIRST ABOVE AND UNDERSTAND THEN YOU CAN UNDERSTAND BELOW CASE-----
+
+![image](https://user-images.githubusercontent.com/40827670/217556869-8eb927a0-b320-4ab0-b23b-210a621dffd0.png)
+![image](https://user-images.githubusercontent.com/40827670/217556898-233dc158-db36-4878-acba-c96c0d339a7c.png)
+NOW WE ARE IN SECTOR FIELD DIDN’T CLICK OUTSIDE THE SECTOR
+
+![image](https://user-images.githubusercontent.com/40827670/217556975-60f03cc0-90a6-4f60-b33f-faaca7c9cd16.png)
+NOW WE CLICK OUTSIDE THE SECTOR FIELD
+
 
